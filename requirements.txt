@@ -1,0 +1,5 @@
+pip~=21.1
+py~=1.10.0
+setuptools~=56.0.0
+pytomlpp~=0.3.5
+PyYAML~=5.4.1
